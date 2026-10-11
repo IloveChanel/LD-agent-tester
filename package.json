@@ -1,0 +1,8 @@
+{
+  "name": "ld-agent-tester",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/tester.mjs"
+  }
+}
